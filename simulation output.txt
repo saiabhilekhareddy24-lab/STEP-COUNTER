@@ -1,0 +1,18 @@
+node simulation.js
+===== STEP COUNTER SIMULATION =====
+
+Morning   : 2000 steps
+Total     : 2000 steps
+
+Afternoon : 3000 steps
+Total     : 5000 steps
+
+Evening   : 2500 steps
+Total     : 7500 steps
+
+Daily Goal: 10000 steps
+Total Steps: 7500 steps
+Progress: 75.00%
+Goal Reached: false
+
+===== SIMULATION COMPLETED =====
